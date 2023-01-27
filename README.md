@@ -1,2 +1,2 @@
-# SokoNumberGame-C-
+# SokoNumberGame-C#
 UserPlay - DFS - BFS - UCS - A*
